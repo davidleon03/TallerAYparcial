@@ -7,6 +7,8 @@ LOCALMENTE
 ![image](https://user-images.githubusercontent.com/98216838/223551431-ba5fdfdc-6b69-4b2d-bf3a-e50c7f213530.png)
 ![image](https://user-images.githubusercontent.com/98216838/223551736-3c695eda-1a8b-4120-92c9-3c38e721bfd4.png)
 ![image](https://user-images.githubusercontent.com/98216838/223552621-db167a0c-3f48-4282-9465-e12732906ba1.png)
+![image](https://user-images.githubusercontent.com/98216838/223560474-89fd926c-c045-4c39-a822-bc501f207321.png)
+
 AWS
 ![image](https://user-images.githubusercontent.com/98216838/223554419-d13c6477-77be-400f-ac84-ca17e58dbb33.png)
 
