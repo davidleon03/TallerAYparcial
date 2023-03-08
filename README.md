@@ -1,8 +1,25 @@
-# TallerAYparcial
+# Taller Docker | David Leon
+## Objetivo
+Aprender a desarrollar una aplicación web utilizando el micro-framework de Spark Java, aprender a crear y desplegar un contenedor Docker para la aplicación y configurarlo en una máquina local y en AWS. Además, aprender a utilizar DockerHub para almacenar imágenes de contenedores y poder desplegarlas en distintas máquinas.
+
+## Herramientas utilizadas
+ - Maven
+ - Java 
+ - Git 
+ - Docker
+ - Spark
+ 
+ ## Desarollo del Laboratorio y pruebas del mismo
+- Empezamos creando la imagen de docker del mismo
 
 ![image](https://user-images.githubusercontent.com/98216838/223550686-874778e8-637d-4250-b7ae-8222091911e0.png)
+
+- Verificamos la creacion
+
 ![image](https://user-images.githubusercontent.com/98216838/223550900-e791056e-2387-4dc6-b7d4-929c7baffe06.png)
-LOCALMENTE
+
+- A partir de la imagen de docker crearemos 3 instancias del mismo 
+
 ![image](https://user-images.githubusercontent.com/98216838/223551013-6d3db315-5d4a-45b6-9af5-6eae43fc084c.png)
 ![image](https://user-images.githubusercontent.com/98216838/223551431-ba5fdfdc-6b69-4b2d-bf3a-e50c7f213530.png)
 ![image](https://user-images.githubusercontent.com/98216838/223551736-3c695eda-1a8b-4120-92c9-3c38e721bfd4.png)
