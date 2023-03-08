@@ -40,6 +40,7 @@ Aprender a desarrollar una aplicación web utilizando el micro-framework de Spar
 ![image](https://user-images.githubusercontent.com/98216838/223560139-26492299-c093-4159-a483-7977d8e7be06.png)
 
 ## Links de la maquina en AWS
+- http://35.170.52.248/insert/aca se ingresa la cadena
 
 ## Documentacion
 
